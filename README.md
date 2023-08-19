@@ -2,7 +2,7 @@
 iOS 小组件动画
 
 ### 简单效果
-
+- ![readmegif](https://github.com/Eilgnaw/WidgetAnimation/blob/main/gif/test.gif?raw=true)
 
 
 ### 参考项目
